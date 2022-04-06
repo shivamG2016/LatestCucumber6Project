@@ -1,4 +1,4 @@
-package stepdefinitions;
+package parallel;
 
 import com.pages.HomePage;
 import com.pages.LoginPage;

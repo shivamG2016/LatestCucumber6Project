@@ -1,4 +1,4 @@
-package stepdefinitions;
+package parallel;
 
 import com.pages.LoginPage;
 import com.qa.factory.DriverFactory;
